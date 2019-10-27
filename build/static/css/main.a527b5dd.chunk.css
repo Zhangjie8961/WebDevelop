@@ -1,0 +1,2 @@
+.block{width:600px;min-height:200px;margin:0 auto;border:1px solid silver}.title{display:flex;flex-direction:row;background-color:#000;box-sizing:border-box;padding:10px 15px}.titleleft{color:#fff;flex:0.5 1}.titleright{flex:2 1;color:#fff;padding:20px 15px}.titleright>input{width:250px;height:30px;border:1px solid #fff;outline:none;border-radius:10px;padding-left:10px;font-size:20px}
+/*# sourceMappingURL=main.a527b5dd.chunk.css.map */
